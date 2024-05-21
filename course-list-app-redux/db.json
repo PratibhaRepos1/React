@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "React Basics"
+    },
+    {
+      "id": "2",
+      "name": "Advanced React"
+    },
+    {
+      "id": "3",
+      "name": "Node.js for Beginners"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "fdf4",
+      "courseId": "1",
+      "name": "test",
+      "email": "test@test.com"
+    }
+  ]
+}

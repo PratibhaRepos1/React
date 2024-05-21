@@ -1,0 +1,36 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "React Basics"
+    },
+    {
+      "id": "2",
+      "name": "Advanced React"
+    },
+    {
+      "id": "3",
+      "name": "Node.js for Beginners"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "e455",
+      "courseId": 1,
+      "name": "Pratibha",
+      "email": "pratibha10@gmail.com"
+    },
+    {
+      "id": "5411",
+      "courseId": 2,
+      "name": "Daksh",
+      "email": "Daksh11@gmail.com"
+    },
+    {
+      "id": "64ee",
+      "courseId": "3",
+      "name": "Daksh J",
+      "email": "dakshj@yahoo.com"
+    }
+  ]
+}
